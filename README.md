@@ -1,6 +1,7 @@
 # movie_booking_website_javascript
 # Home Page
-![image](https://github.com/Ajit619/movie_booking_website_javascript/assets/77828414/a110a5d2-aef5-459b-ab5c-c8da69e6ca41)
+![image](https://github.com/Ajit619/movie_booking_website_javascript/assets/77828414/9b36aa54-b8d3-4d07-ab87-b29005db463b)
+
 # Search Option
 ![image](https://github.com/Ajit619/movie_booking_website_javascript/assets/77828414/c27717b8-33da-4b60-89f3-a2eb0df6ec36)
 # Login and Signup page
